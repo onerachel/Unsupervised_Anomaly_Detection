@@ -7,7 +7,7 @@ Detect abnormal samples from unlabelled data sets in three scenarios (Fraud, bre
 ```bash
 git clone git@github.com:onerachel/Unsupervised_Anomaly_Detection.git
 ```
-- Create a Python virtual environment in the 'Unsupervised_Anomaly_Detection' root directory:
+- Create a Python virtual environment under the 'Unsupervised_Anomaly_Detection' root directory:
 ```bash
 virtualenv -p=python3.9 .venv
 source .venv/bin/activate
